@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.1)  12 NOV 2024 22:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.1)  14 NOV 2024 11:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -375,28 +375,29 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 {C:/Users/Nurassyl/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 
 [2]
-<images/Instructionconstruction.png, id=69, 1024.57782pt x 575.90157pt>
+<images/Instructionconstruction.png, id=74, 1024.57782pt x 575.90157pt>
 File: images/Instructionconstruction.png Graphic file (type png)
 <use images/Instructionconstruction.png>
-Package pdftex.def Info: images/Instructionconstruction.png  used on input line 112.
+Package pdftex.def Info: images/Instructionconstruction.png  used on input line 120.
 (pdftex.def)             Requested size: 426.79134pt x 239.89102pt.
-<images/dtprcsinstrc.png, id=71, 1905.36844pt x 977.15062pt>
-File: images/dtprcsinstrc.png Graphic file (type png)
-<use images/dtprcsinstrc.png>
-Package pdftex.def Info: images/dtprcsinstrc.png  used on input line 130.
-(pdftex.def)             Requested size: 426.79134pt x 218.86534pt.
 
 
 [3 <./images/Instructionconstruction.png>]
+<images/dtprcsinstrc.png, id=89, 1905.36844pt x 977.15062pt>
+File: images/dtprcsinstrc.png Graphic file (type png)
+<use images/dtprcsinstrc.png>
+Package pdftex.def Info: images/dtprcsinstrc.png  used on input line 138.
+(pdftex.def)             Requested size: 426.79134pt x 218.86534pt.
+
 
 [4 <./images/dtprcsinstrc.png>]
-LaTeX Font Info:    Trying to load font information for OMS+cmtt on input line 224.
-LaTeX Font Info:    No file OMScmtt.fd. on input line 224.
+LaTeX Font Info:    Trying to load font information for OMS+cmtt on input line 232.
+LaTeX Font Info:    No file OMScmtt.fd. on input line 232.
 
 
 LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbraceleft' on input line 224.
+(Font)              for symbol `textbraceleft' on input line 232.
 
 
 
@@ -407,27 +408,27 @@ LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
 [7]
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 456--456
 []|\OT1/cmr/bx/n/10 Immediate
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 452--452
+Underfull \hbox (badness 10000) in paragraph at lines 460--460
 []|\OT1/cmr/m/n/10 [31:25] (imm[11:5]) + [11:7]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 454--454
+Underfull \hbox (badness 10000) in paragraph at lines 462--462
 []|\OT1/cmr/m/n/10 [31] (imm[12]) + [30:25]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 458--458
+Underfull \hbox (badness 10000) in paragraph at lines 466--466
 []|\OT1/cmr/m/n/10 [31] (imm[20]) + [30:21]
  []
 
 
-Overfull \hbox (50.44975pt too wide) in paragraph at lines 446--461
+Overfull \hbox (50.44975pt too wide) in paragraph at lines 454--469
  [][] 
  []
 
@@ -456,20 +457,20 @@ L3 programming layer <2024-10-09>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `notes.out' has not changed.
-(rerunfilecheck)             Checksum: CCC7DE68DADE497EB6421682BABD0B19;1574.
+(rerunfilecheck)             Checksum: 2A85F3FF9BAC0501C26A9E0D81CC6A1F;1722.
  ) 
 Here is how much of TeX's memory you used:
- 11992 strings out of 473897
- 181344 string characters out of 5725046
+ 11994 strings out of 473897
+ 181367 string characters out of 5725046
  579318 words of memory out of 5000000
- 34645 multiletter control sequences out of 15000+600000
+ 34646 multiletter control sequences out of 15000+600000
  566781 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,12n,79p,437b,1001s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Nurassyl\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Nurassyl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Nurassyl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Nurassyl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Nurassyl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Nurassyl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Nurassyl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Nurassyl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Nurassyl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Nurassyl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Nurassyl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Nurassyl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Nurassyl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on notes.pdf (14 pages, 1298697 bytes).
+Output written on notes.pdf (14 pages, 1301533 bytes).
 PDF statistics:
- 260 PDF objects out of 1000 (max. 8388607)
- 88 named destinations out of 1000 (max. 500000)
- 75 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 265 PDF objects out of 1000 (max. 8388607)
+ 89 named destinations out of 1000 (max. 500000)
+ 83 words of extra memory for PDF output out of 10000 (max. 10000000)
 

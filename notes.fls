@@ -175,6 +175,7 @@ INPUT C:\Users\Nurassyl\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\
 INPUT C:\Users\Nurassyl\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
 OUTPUT notes.toc
 INPUT C:\Users\Nurassyl\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\Users\Nurassyl\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmtt10.tfm
 INPUT C:\Users\Nurassyl\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\Nurassyl\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
 INPUT .\images\Instructionconstruction.png
@@ -191,7 +192,6 @@ INPUT .\images\dtprcsinstrc.png
 INPUT .\images\dtprcsinstrc.png
 INPUT .\images\dtprcsinstrc.png
 INPUT .\images\dtprcsinstrc.png
-INPUT C:\Users\Nurassyl\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmtt10.tfm
 INPUT C:\Users\Nurassyl\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
 INPUT notes.aux
 INPUT .\notes.out
